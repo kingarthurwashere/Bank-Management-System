@@ -346,10 +346,10 @@ void Deposit_Amount_withWithdraw(int n, int option)
 
 void intro()
 {
-	cout << "\n\n\t\t  BANK";
-	cout << "\n\t\tMANAGEMENT";
-	cout << "\n\t\t  SYSTEM";
-	cout << "\n\nMADE BY : your name";
-	cout << "\nSCHOOL : your school name";
+	cout << "\n\n\t\t   BANK";
+	cout << "\n\t\t  MANAGEMENT";
+	cout << "\n\t\t    SYSTEM";
+	cout << "\n\nMADE BY : King Arthur ";
+	cout << "\nSCHOOL : your school name >>";
 	cin.get();
 }
