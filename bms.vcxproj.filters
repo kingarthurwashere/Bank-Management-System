@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="bms-copy.cpp">
+    <ClCompile Include="bms.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
